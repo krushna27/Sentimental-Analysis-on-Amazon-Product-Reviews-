@@ -1,0 +1,141 @@
+rating,reviews,sentiment,Subjectivity,Polarity,Analysis,target
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
+5.0,5.0 5 star super loved product,0.5166666666666666,0.7333333333333334,0.5166666666666666,Positive,2
+1.0,1.0 5 star uncomfortable earsits small n fit even though i small ear uncomfortable head started aching,-0.22000000000000003,0.6399999999999999,-0.22000000000000003,Negative,0
+4.0,4.0 5 star good productpretty good product. for budget headphone perfect.,0.7999999999999999,0.7333333333333334,0.7999999999999999,Positive,2
+5.0,5.0 5 star bestbest,0.0,0.0,0.0,Neutral,1
+5.0,5.0 5 star it's quality look,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star experiencethis poor head phone evrything. like music listening movie watching item poor gaming.,-0.4,0.6,-0.4,Negative,0
+1.0,1.0 5 star wrst productthe quality ratio item .1 look like purchase road side toy shop .don't buy product.,0.0,0.0,0.0,Neutral,1
+1.0,1.0 5 star very bad productit broke 2 month buy product,-0.9099999999999998,0.8666666666666667,-0.9099999999999998,Negative,0
+1.0,"1.0 5 star this headset good enough, better flexible ears!!!this product better good enough, tight ears, can't use activity!!!",0.29303252551020403,0.4979591836734694,0.29303252551020403,Positive,2
+5.0,"5.0 5 star brilliant purchase awsom🥰 love it, 🥰🥰🥰🥰🥰🥰 worth money🥳🥳🥳 sound quality superr 🥳🥳🥳u melt like candy u listen music",0.525,0.525,0.525,Positive,2
